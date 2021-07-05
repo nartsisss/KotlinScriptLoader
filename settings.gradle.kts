@@ -1,3 +1,2 @@
-
-rootProject.name = "KotlinScriptSystem"
+rootProject.name = "KotlinScriptLoader"
 
